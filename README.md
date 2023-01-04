@@ -1,3 +1,6 @@
- - 🤟🏼 Hi, I’m @tpcav
- - 💻 I’m interested in 3D modeling & printing, interactive web development, and prototyping.
- - 🌱 I’m currently learning three.js
+# Tom Cav
+<p>💻 Software Dev Hobbyist</p>
+<p>💡 I build small side-projects for my weird ideas.</p>
+<p>🛴 I like emojis.</p>
+<p>🥪 Cheesesteak lover (there is no cheesesteak emoji)</p>
+
